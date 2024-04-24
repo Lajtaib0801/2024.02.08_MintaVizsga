@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lajtaib\\Desktop\\cSharp\\2024.02.08_MintaVizsga\\Feladat\\RealEstate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B24C9A42-9F76-45FB-8D93-1E8257CDBE8E}|RealEstate.csproj|c:\\users\\lajtaib\\desktop\\csharp\\2024.02.08_mintavizsga\\feladat\\realestate\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24C9A42-9F76-45FB-8D93-1E8257CDBE8E}|RealEstate.csproj|solutionrelative:ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "C:\\Users\\lajtaib\\Desktop\\cSharp\\2024.02.08_MintaVizsga\\Feladat\\RealEstate\\Ad.cs",
+              "RelativeDocumentMoniker": "Ad.cs",
+              "ToolTip": "C:\\Users\\lajtaib\\Desktop\\cSharp\\2024.02.08_MintaVizsga\\Feladat\\RealEstate\\Ad.cs",
+              "RelativeToolTip": "Ad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:10:43.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
